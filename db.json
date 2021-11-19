@@ -1,0 +1,21 @@
+{
+    "konyvek": [
+        {   "id": 1,
+            "nev": "Hát Izsák", 
+            "cim": "Ace Ventura",
+            "ar": 1234, 
+            "kategoria": "vígjáték" 
+        },
+        {   "id": 2,
+            "nev": "Sikló Ernő", 
+            "cim": "Number 23",
+            "ar": 5678, 
+            "kategoria": "thriller" 
+        }
+    ],
+
+    "szerzo": [
+      { "id": 1, "nev": "Hát Izsák", "szulEv": 1975 }
+    ]
+    
+  }
